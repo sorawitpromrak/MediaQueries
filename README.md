@@ -1,4 +1,4 @@
-![Untitlszced](https://github.com/user-attachments/assets/1e87f656-23a8-4d5e-a90d-5e495da61bf9)![image](https://github.com/user-attachments/assets/58aef4b2-cb66-401a-a5b5-930e46ee6745)
+![Untitlszced](https://github.com/user-attachments/assets/1e87f656-23a8-4d5e-a90d-5e495da61bf9)
 
 กรณีศึกษา เพิ่มเติมเกี่ยวกับ Media Queries : https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
